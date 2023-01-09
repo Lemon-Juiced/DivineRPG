@@ -5,7 +5,7 @@ import divinerpg.compat.ModCompat;
 import divinerpg.config.*;
 import divinerpg.events.*;
 import divinerpg.registries.*;
-import divinerpg.util.Utils;
+import divinerpg.util.*;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.item.AxeItem;
 import net.minecraft.world.level.block.*;
